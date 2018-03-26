@@ -4,3 +4,8 @@ RAM: dmidecode -t memory | grep -i size
 Motherboard:' dmidecode --type baseboard-manufacturer
 System Serial Number: dmidecode -s system-serial-number
 ---System---
+---Network---
+    inet 127.0.0.1/8 scope host lo
+    inet 192.168.10.175/24 brd 192.168.10.255 scope global dynamic enp0s3
+    inet 172.17.0.1/16 scope global docker0
+    inet 172.18.0.1/16 scope global br-5d8c6548ab90
