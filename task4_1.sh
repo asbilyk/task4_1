@@ -15,4 +15,4 @@ echo "Uptime:"`uptime|awk '{print $3}'`
 echo "Processes running:"`ps aux|wc -l`
 echo "Users logged in:"`w|awk -F, '{print $2}'|grep '[1-9]'`
 echo '---Network---'
-ip addr |grep -i inet[^6]
+ip -br -4 addr|awk '{print $1":" $3}'

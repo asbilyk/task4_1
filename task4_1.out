@@ -8,9 +8,9 @@ OS Distribution:
 Kernel version4.13.0-36-generic
 Installation date:Linux ubuntu 4.13.0-36-generic #40~16.04.1-Ubuntu
 Hostname:ubuntu
-Uptime:4:28,
-Processes running:236
+Uptime:5:39,
+Processes running:237
 Users logged in: 1 user
 ---Network---
-    inet 127.0.0.1/8 scope host lo
-    inet 192.168.1.10/24 brd 192.168.1.255 scope global dynamic enp2s0
+lo:127.0.0.1/8
+enp2s0:192.168.1.10/24
