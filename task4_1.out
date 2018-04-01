@@ -6,10 +6,10 @@ System Serial Number:141236863602503
 ---System---
 OS Distribution:
 Kernel version4.13.0-36-generic
-Installation date:Linux ubuntu 4.13.0-36-generic #40~16.04.1-Ubuntu
-Hostname:ubuntu
-Uptime:5:39,
-Processes running:237
+Installation date:Linux alex-System-Product-Name 4.13.0-36-generic #40~16.04.1-Ubuntu
+Hostname:alex-System-Product-Name
+Uptime:13
+Processes running:217
 Users logged in: 1 user
 ---Network---
 lo:127.0.0.1/8
